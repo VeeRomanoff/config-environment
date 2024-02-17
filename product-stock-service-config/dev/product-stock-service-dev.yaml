@@ -24,5 +24,5 @@ management:
         include: refresh
 
 my-values:
-  name: MENTOS NEW INFORMATION
+  name: MENTOS SOMETHING NEW
   description: Новое жвательное дроже
