@@ -16,3 +16,7 @@ spring:
     properties:
       hibernate:
         format_sql: true
+
+my-values:
+  name: MENTOS
+  description: Дроже жевательное 
