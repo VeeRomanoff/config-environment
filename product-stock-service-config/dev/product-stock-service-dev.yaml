@@ -17,6 +17,12 @@ spring:
       hibernate:
         format_sql: true
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
+
 my-values:
   name: MENTOS
   description: Дроже жевательное 
